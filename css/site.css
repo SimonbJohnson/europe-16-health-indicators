@@ -1,0 +1,8 @@
+#map {
+    height:600px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0px;
+}
